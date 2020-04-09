@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  },
+  "name": "hard_coded_login",
+  "version": "1.0.0",
+  "description": "using ejs",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronit",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RonitKumar09/MyWorkOnPC.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RonitKumar09/MyWorkOnPC/issues"
+  },
+  "homepage": "https://github.com/RonitKumar09/MyWorkOnPC#readme"
+}
