@@ -1,2 +1,6 @@
 # MyWorkOnPC
-few of my works with flutter
+use
+npm i
+followed by
+yarn start
+after cloning
